@@ -5,7 +5,7 @@
  * [Topluluk kanalımız](https://t.me/corenodechat)<br>
  * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
  * [Galactica Network Website](https://galactica.com/)<br>
- * [Blockchain Explorer](https://explorer.corenodehq.com/Galactica-Testnet)<br>
+ * [Blockchain Explorer](https://explorer.corenodehq.com/Galactica%20Testnet)<br>
  * [Discord](https://discord.gg/JvynTZAr)<br>
  * [Twitter](https://twitter.com/GalacticaNet)<br>
  * [FAUCET](https://faucet-reticulum.galactica.com/)<br>
