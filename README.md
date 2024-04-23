@@ -88,8 +88,8 @@ galacticad init NAME_OF_YOUR_VALIDATOR --chain-id galactica_9302-1
 ```
 ### Genesis ve addrbook
 ```
-curl  -o ~/.galactica/config/genesis.json
-curl  -o ~/.galactica/config/addrbook.json
+curl https://raw.githubusercontent.com/molla202/Galactica/main/genesis.json -o ~/.galactica/config/genesis.json
+curl https://raw.githubusercontent.com/molla202/Galactica/main/addrbook.json -o ~/.galactica/config/addrbook.json
 ```
 ### Seed ve Peer
 ```
